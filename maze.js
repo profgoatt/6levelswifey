@@ -1,6 +1,8 @@
 const canvas = document.getElementById("game");
 const ctx = canvas.getContext("2d");
 
+/* rest of your JS exactly the same */
+
 const startModal = document.getElementById("start");
 const questionModal = document.getElementById("question");
 const questionText = document.getElementById("questionText");
